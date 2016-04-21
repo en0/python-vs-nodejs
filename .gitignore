@@ -1,0 +1,6 @@
+*.pyc
+*.o
+fib
+*.log
+node_modules/*
+python_env/*
