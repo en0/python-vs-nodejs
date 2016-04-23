@@ -24,4 +24,4 @@ while(loops > 0):
     print "Elapsed Time: {} seconds".format(_dur)
     print "{} Loops left...".format(loops)
 
-print "Averaged Elapsed Time: {} seconds".format(sum(stats))
+print "Averaged Elapsed Time: {} seconds".format(sum(stats) / len(stats))
